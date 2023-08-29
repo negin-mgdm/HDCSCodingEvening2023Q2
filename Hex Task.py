@@ -10,7 +10,6 @@ RGB = [255, 2, 69] [::-1]
 base = 16
 base_format = ""    
 
-
 for color in RGB:
     devisor = color    
     
